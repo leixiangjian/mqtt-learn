@@ -6,6 +6,8 @@
 1、MQTT服务器    
 1）Apache Apollo  
 http://activemq.apache.org/apollo/community/developers.html  
+2）EMQTT  
+https://blog.csdn.net/relijin/article/details/73274739?utm_source=blogxgwz4
 2、MQTT客户端   
 1）Websockets client  
 百度开放云基于浏览器开发的mqtt客户端  
